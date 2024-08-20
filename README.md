@@ -8,7 +8,7 @@ PUBLIC_BUILDER_IO_KEY=e447dd52ae65478e8501b1735e4babc7
 2. Run `bun i` / `npm i`
 2. Run `bun dev` / `npm run dev` to start the svelte dev sever
 3. Go to the URL `/foo`
-4. Navigate to the `/dynamic` link via the link on the page
+4. Navigate to the `/dynamic` link via the link on the page (**NOTE: THIS MUST BE DONE AS A CLIENT-SIDE NAVIGATION**)
 5. Notice how the data dynamic does not appear/load
 6. Your console will show an error like
 ```
